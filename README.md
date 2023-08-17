@@ -1,4 +1,4 @@
-Problem Statement
+#Problem Statement
 
 Understanding the customers’ intentions can help to improve the journey, e.g., by taking shortcuts or giving recommendations to improve the overall experience is very important. With the extent of development in the field of machine learning research, personalization of services has become very common. Typically, a user’s intention on a Web site can be understood by looking at their past interactions. In concrete terms, this means that a user leaves a sequence of events about the history of his page views and interactions. An event can be that a user makes a search query, calls up an article page or receives an e-mail. This data forms the basis for working with the following techniques. Therefore, the first step is to collect or extract this data.
 
